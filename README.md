@@ -244,6 +244,7 @@ Member 1 - Suhyeon yoo
 Member 2 - XinBao Chen
 Member 3 - Namkha Oedzer
 Member 4 - Jianhua Deng
+Member 5 - Khadim Thiam
 
 
 
@@ -399,6 +400,8 @@ pnpm dev:client
 pnpm dev:server
 cd ai-pipeline && uvicorn api:app --reload --port 8000
 ```
+### Member 5 - 
+
 
 **Files and what to build in each:**
 
